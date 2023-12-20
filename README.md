@@ -1,4 +1,3 @@
-![alt text](https://machinelearningmastery.com/wp-content/uploads/2021/10/transformer_1.png)
 
 
 transformer from scratch :
